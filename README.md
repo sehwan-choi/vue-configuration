@@ -9,8 +9,11 @@
 https://nodejs.org 에서 LTS 버전 설치
 
 
-- vue.js devtools 설치 (Chrome 확장팩) <br>
+- vue.js devtools 설치 (Chrome 확장팩)
+  
 https://chrome.google.com/webstore/detail/vuejs-devtools/iaajmlceplecbljialhhkmedjlpdblhp/related  <- 여기서 설치
+
+
 -- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
 
 
