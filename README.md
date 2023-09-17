@@ -62,3 +62,27 @@ Windows 환경에서
 위와 같은 에러 발생시
 https://hellcoding.tistory.com/entry/VSCode-%EC%98%A4%EB%A5%98-%EC%9D%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%96%89%ED%95%A0-%EC%88%98-%EC%97%86%EC%9C%BC%EB%AF%80%EB%A1%9C
 위 사이트 참조
+
+
+---
+
+### 참고
+
+CLI 버전이 업데이트되면서 기본적으로 ESLint 오류가 나면 화면을 조작할 수 없게 되었습니다. ESLint 에러를 화면에 표시하지 않으려면 아래와 같이 설정해주세요.
+
+1. 프로젝트 폴더에 `vue.config.js` 파일 생성
+
+2. `vue.config.js` 파일에 아래 내용 입력
+
+module.exports = {
+  devServer: {
+    overlay: false
+  }
+}
+3. 파일 저장
+
+4. `Ctrl + C`로 서버 종료 후 `npm run serve`로 다시 실행
+
+5. 결과 확인
+
+6. ---
