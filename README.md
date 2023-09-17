@@ -7,6 +7,7 @@
 
 ## node js 설치
 https://nodejs.org 에서 LTS 버전 설치
+---
 
 
 ## vue.js devtools 설치 (Chrome 확장팩)
@@ -24,6 +25,8 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/iaajmlceplecbljialhhkme
 ## visual studio code 설치
 https://code.visualstudio.com/
 
+---
+
 ## extensions 설치
    1. vetur
    2. material icon
@@ -33,6 +36,8 @@ https://code.visualstudio.com/
    6. Prettier
    7. Auto Close Tag
    8. Atom Keymap
+
+---
 
 ## extension 설정
   1. material icon
@@ -46,3 +51,8 @@ https://code.visualstudio.com/
        상단 code -> 기본 설정 -> 색테마 -> night owl 설정
      window :
        상단 file -> preference -> theme -> color theme -> night owl 설정
+
+---
+
+## Vue Cli 설치
+1. npm install -g @vue/cli
