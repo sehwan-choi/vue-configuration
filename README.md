@@ -2,7 +2,7 @@
 
 환경설정
 
-## Chrome 설치
+### Chrome 설치
 
 
 ## node js 설치
