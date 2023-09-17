@@ -14,7 +14,7 @@ https://nodejs.org 에서 LTS 버전 설치
 https://chrome.google.com/webstore/detail/vuejs-devtools/iaajmlceplecbljialhhkmedjlpdblhp/related  <- 여기서 설치
 
 
--- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd <- 여기 아님
+-- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd <- 여기 아님 <br>
 
 
 
