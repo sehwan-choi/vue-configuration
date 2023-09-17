@@ -5,12 +5,12 @@
 ### Chrome 설치
 
 
-## node js 설치
+### node js 설치
 https://nodejs.org 에서 LTS 버전 설치
 ---
 
 
-## vue.js devtools 설치 (Chrome 확장팩)
+### vue.js devtools 설치 (Chrome 확장팩)
   
 https://chrome.google.com/webstore/detail/vuejs-devtools/iaajmlceplecbljialhhkmedjlpdblhp/related  <- 여기서 설치
 
@@ -22,12 +22,12 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/iaajmlceplecbljialhhkme
 
 
 
-## visual studio code 설치
+### visual studio code 설치
 https://code.visualstudio.com/
 
 ---
 
-## extensions 설치
+### extensions 설치
    1. vetur
    2. material icon
    3. night owl
@@ -39,7 +39,7 @@ https://code.visualstudio.com/
 
 ---
 
-## extension 설정
+### extension 설정
   1. material icon
      mac :
        상단 code -> 기본 설정 -> 파일 아이콘 테마 -> material icon 설정
@@ -54,7 +54,7 @@ https://code.visualstudio.com/
 
 ---
 
-## Vue Cli 설치
+### Vue Cli 설치
 1. npm install -g @vue/cli
 
 Windows 환경에서
