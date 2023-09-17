@@ -17,14 +17,14 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/iaajmlceplecbljialhhkme
 -- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd <- 여기 아님
 
 
-
+---
 
 
 
 ## visual studio code 설치
 https://code.visualstudio.com/
 
-##extensions 설치
+## extensions 설치
    1. vetur
    2. material icon
    3. night owl
